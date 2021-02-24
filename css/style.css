@@ -1,0 +1,65 @@
+body {
+  background: url(https://i.gifer.com/TL80.gif);
+  background-size: 100%;
+}
+/* shapka */
+.Shapka {
+  display: flex;
+  flex-direction: row;
+  background-color: #00264c;
+}
+
+.Hlibo {
+  padding-left: 250px;
+  color: aliceblue;
+  font-size: 50px;
+}
+.zap {
+  padding-right: 50px;
+}
+.product {
+  padding-right: 50px;
+}
+.Pitan {
+  padding-right: 50px;
+}
+.more {
+  padding-right: 50px;
+}
+.POISK {
+  padding-right: 10px;
+  padding-left: 300px;
+}
+
+.moreelements {
+  display: flex;
+  flex-direction: row;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 200px;
+  color: aliceblue;
+}
+/* left */
+.Leftinfo {
+  font-size: 40px;
+  padding-left: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  color: aqua;
+}
+.OZER {
+  color: aqua;
+}
+.prod {
+  color: aqua;
+}
+.telef {
+  padding-bottom: 40px;
+  font-size: 50px;
+  color: aqua;
+}
+.contact {
+  font-size: 50px;
+}
